@@ -1,0 +1,32 @@
+step 1 .... create my own server on discord 
+ 
+step 2 .... go to setting ... user settings - advance - developer mode onnn 
+
+step 3 .... go to google ..search for "discord developer portal " --- applications ---- create a new app 
+
+step 4.... change the name .... give adminstrator permisiion ( by this bot can perform actions on behalf of you ) at the last of the page 
+
+step 5 .... go to outh ---- url generator ---bot --- administrative permission ---- copy below url 
+
+step 6 .... paste url on above ... add your bot into server 
+
+step 7 ... go to discord and your bot is genrated 
+
+step 8 ... use library " discord.js" install discord and npm 
+
+step 9 ... generate a token from "rest token " for check authentications further 
+
+step 10 .... enable "message content intent " from website 
+
+             intend means what are the permission you give to the users 
+
+
+
+
+step 11 ...... work on command.js and index.js 
+
+
+
+# we can also intergrate chatgpt with it for chat purpose 
+
+
